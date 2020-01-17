@@ -1,4 +1,4 @@
-var ZeroClipboard = require('ZeroClipboard'),
+var ZeroClipboard = require('zeroclipboard'),
   packageInfo = require('package.json'),
   CurrentScript = require('lib/CurrentScript');
 
